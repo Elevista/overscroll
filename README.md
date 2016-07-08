@@ -1,5 +1,5 @@
 # Over Scroll
-Over-scrolling elastic bounce effect AngularJS & jQuery plugin for touch devices
+Scroll overflow bounce effect AngularJS & jQuery plugin for touch devices
 
 ## Requirement
 - AngularJS 1.5.5 or higher (AngularJS version)
