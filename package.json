@@ -1,0 +1,21 @@
+{
+	"name": "overscroll",
+	"version": "1.0.0",
+	"description": "Over-scrolling elastic bounce effect plugin for AngularJS & jQuery.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Elevista/overscroll.git"
+	},
+	"dependencies": {
+		"grunt": "^1.0.1"
+	},
+	"devDependencies": {
+		"grunt-contrib-clean": "^1.0.0",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-contrib-uglify": "^1.0.1"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "http://www.opensource.org/licenses/mit-license.php"
+	}
+}
