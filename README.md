@@ -1,5 +1,5 @@
 # Over Scroll
-Over-scrolling elastic bounce effect plugin for AngularJS &amp; jQuery.
+Over-scrolling elastic bounce effect AngularJS & jQuery plugin for touch devices
 
 ## Requirement
 - AngularJS 1.5.5 or higher (AngularJS version)
@@ -28,7 +28,7 @@ $('#foo').overScroll(options);
 ```
 
 ## Options
-- self : If set this true, over-scroll event will appear in DOM element itself. otherwise child elements. (default: false)
+- self : If set this true, over-scroll effect will appear in DOM element itself. otherwise child elements. (default: false)
 - horizontal : Horizontal scroll (default: false)
 
 ## Event
@@ -37,4 +37,10 @@ triggers jQuery event and emits AngularJS event on scope too.
 - overScrolledBottom : fires when over-scrolled bottom of element few pixels.
 
 ## Demo
+- <a href="http://run.plnkr.co/plunks/jRXcL9/" target="_blank">AngularJS Demo</a>
+- <a href="http://run.plnkr.co/plunks/iycW6O/" target="_blank">jQuery Demo</a>
 
+## License
+The MIT License (MIT)
+
+Copyright (c) 2016 Elevista
