@@ -37,5 +37,5 @@ triggers jQuery event and emits AngularJS event on scope too.
 - overScrolledBottom : fires when over-scrolled bottom of element few pixels.
 
 ## Demo
-- <a href="http://run.plnkr.co/plunks/zE1M88zZDB08U8OoTeNs/" target="_blank">AngularJS Demo</a>
-- <a href="http://run.plnkr.co/plunks/JdpdKy0oIyenRD3ngFAT/" target="_blank">jQuery Demo</a>
+- <a href="http://run.plnkr.co/plunks/jRXcL9/" target="_blank">AngularJS Demo</a>
+- <a href="http://run.plnkr.co/plunks/iycW6O/" target="_blank">jQuery Demo</a>
