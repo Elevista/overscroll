@@ -39,3 +39,7 @@ triggers jQuery event and emits AngularJS event on scope too.
 ## Demo
 - <a href="http://run.plnkr.co/plunks/jRXcL9/" target="_blank">AngularJS Demo</a>
 - <a href="http://run.plnkr.co/plunks/iycW6O/" target="_blank">jQuery Demo</a>
+
+## License
+The MIT License (MIT)
+Copyright (c) 2016 Elevista
