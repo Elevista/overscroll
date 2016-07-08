@@ -42,4 +42,5 @@ triggers jQuery event and emits AngularJS event on scope too.
 
 ## License
 The MIT License (MIT)
+
 Copyright (c) 2016 Elevista
