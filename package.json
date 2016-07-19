@@ -1,6 +1,6 @@
 {
 	"name": "overscroll",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Over-scrolling elastic bounce effect plugin for AngularJS & jQuery.",
 	"repository": {
 		"type": "git",

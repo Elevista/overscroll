@@ -1,7 +1,8 @@
-;(function (_, $, angular, undefined) {
+;(function (_, $, angular, navigator, undefined) {
+	var ua = navigator.userAgent, isSafari = !!(ua.indexOf('Safari') + 1) && !(ua.indexOf('Chrome') + 1);
+	if (isSafari && !(ua.indexOf('Android') + 1)) return;
 
 	var module = angular.module("overScroll", []);
-
 	var fileName = "overScroll";
 	module.directive(_.camelCase(fileName), function () {
 		var controller = ["$scope", "$element", function ($scope, $element) {
@@ -122,4 +123,4 @@
 		};
 	});
 
-})(_, jQuery, angular);
+})(_, jQuery, angular, navigator);

@@ -1,4 +1,7 @@
-;(function (_, $, undefined) {
+;(function (_, $, navigator, undefined) {
+	var ua = navigator.userAgent, isSafari = (ua.indexOf('Safari') + 1) && !(ua.indexOf('Chrome') + 1);
+	if (isSafari && !(ua.indexOf('Android') + 1)) return;
+
 	$.fn.overScroll = function (custOpt) {
 		var $element = this;
 		var opt = {self: false, horizontal: false};    //default
@@ -108,4 +111,4 @@
 		el.bind('touchend', release);
 		return this;
 	};
-})(_, jQuery);
+})(_, jQuery, navigator);
