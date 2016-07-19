@@ -40,6 +40,9 @@ triggers jQuery event and emits AngularJS event on scope too.
 - <a href="http://run.plnkr.co/plunks/jRXcL9/" target="_blank">AngularJS Demo</a>
 - <a href="http://run.plnkr.co/plunks/iycW6O/" target="_blank">jQuery Demo</a>
 
+## Download
+- <a href="https://github.com/Elevista/overscroll/releases">Releases</a>
+
 ## License
 The MIT License (MIT)
 
